@@ -212,3 +212,4 @@ print("States Explored:", m.num_explored)  # 打印探索状态数量
 print("Solution:")
 m.print()  # 打印解
 m.output_image("maze.png", show_explored=True)  # 生成迷宫图像，并显示已探索状态
+#12
